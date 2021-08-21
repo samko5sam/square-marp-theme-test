@@ -1,5 +1,5 @@
 /* @square */
-
+@import-theme 'base';
 section {
   width: 960px;
   height: 960px;
