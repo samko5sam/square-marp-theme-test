@@ -1,0 +1,8 @@
+/* @square */
+
+@import 'base';
+
+section {
+  width: 960px;
+  height: 960px;
+}
